@@ -53,11 +53,9 @@ Asignación de prefijos /64 a partir de 2001:25:22::/48, ordenados según el tam
 ## VLANs por router
 
 **R1-Core:** Docentes, Estudiantes, Gestión, Voz, Blackhull
+
 **R2:** Finanzas, Académicos, Datacenter, Blackhull, enlace P2P hacia R1
 
 
 
 
-- **Sprint 1:** Diseño de direccionamiento, topología lógica/física, VLANs y VTP. ✅
-- **Sprint 2:** Implementación de VLANs, VTP, STP, EtherChannel y HSRP. ⏳
-- **Sprint 3:** OSPFv2, pruebas funcionales y documentación final. ⏳
